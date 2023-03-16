@@ -13,6 +13,14 @@ Our platform is open source, and we're always looking for new ideas and fresh pe
 
 So, what are you waiting for? Get your butt over to our website and start exploring. Join the Open City Design community and let's make a difference.
 
+-
+
+What is Open City Design working towards?
+
+
+
+-
+
 # CREDITS
 ### OpenAI and GPT-3.5's conversations with @bombayjesus 
 ### Supervillains.wtf for being a wild enough space to help envision an Open City Blueprint; because why NOT?!
