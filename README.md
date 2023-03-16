@@ -15,9 +15,15 @@ So, what are you waiting for? Get your butt over to our website and start explor
 
 -
 
-What is Open City Design working towards?
+So, how do you make cities more liveable? We have some fun ideas,
 
+* Green spaces and urban agriculture: Open City Design can prioritize the creation and maintenance of green spaces, such as parks and gardens, that provide opportunities for outdoor recreation and relaxation. The boilerplate can also promote urban agriculture initiatives that allow citizens to grow their own food and foster a sense of community.
 
+* Community engagement: The Open City Design can include systems for fostering community engagement and participation in city planning and decision-making. This can include regular public meetings, online forums, and other channels for citizens to provide input and feedback on city projects and policies.
+
+* Mental health and well-being: The Open City Design can prioritize mental health and well-being by promoting access to resources such as counseling services, mindfulness classes, and meditation spaces. The boilerplate can also incorporate mental health awareness campaigns and initiatives that promote stress reduction and self-care.
+
+* Accessibility and inclusivity: The Open City Design can include systems for promoting accessibility and inclusivity for all citizens, including those with disabilities or from marginalized communities. This can include initiatives such as accessible public transportation, affordable housing, and cultural events that celebrate diversity and promote inclusion.
 
 -
 
