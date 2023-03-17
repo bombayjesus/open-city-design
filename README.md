@@ -8,13 +8,9 @@ Open City Design is all about empowering regular folks, governments, and designe
 ## What is Open City Design?
 Open City Design is where it's at for sustainable urban design. We're all about making our cities more livable and equitable, and we need your help to make it happen.
 
-On our website, you'll find all kinds of resources and tools to help you design and implement sustainable projects in your city. We're talking case studies, design guides, and a community forum where you can connect with other pros and share your own ideas.
+We've currently a collective of programmers, marketers, designers and artists. We seek students, city planners, architectects, organisations and individuals with similar interests and most imporantly, you! We're all about collaboration, and every little bit helps.
 
-We've currently a collective of progmmers, marketers, designers and artists. We seek students, city planners, architectects, organisations and individuals with similar interests and most imporantly, you! We're all about collaboration, and every little bit helps.
-
-Our platform is open source, and we're always looking for new ideas and fresh perspectives. Whether you're a designer, planner, citizen, or student, we want to hear from you. Let's work together to create more sustainable, equitable, and livable cities for all!
-
-So, what are you waiting for? Get your butt over to our website and start exploring. Join the Open City Design community and let's figure this out together!
+Get your butt over to our website and start exploring. Join the Open City Design community and let's figure this out together!
 
 - - - -
 
