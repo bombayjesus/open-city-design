@@ -2,12 +2,12 @@
 
 Hey there! Have you ever walked around your city and thought, "This could be better!"? Well, guess what? You can be a part of making it happen! We believe in Tactical Urbanism. 
 
-## What is Open City Design?
+## What is Open City Design? 
 Open City Design is all about empowering regular folks, governments, and designers to team up and create awesome cities that are both livable and sustainable. Our platform hooks you up with innovative tools, resources, and best practices to make your city planning and design game stronger than ever. So don't miss out on this opportunity to shape the future of our cities - eveyone can contribute!
 
 - - - -
 
-## What is Open City Design?
+## Very interesting; longer description?
 Open City Design is where it's at for sustainable urban design. We're all about making our cities more livable and equitable, and we need your help to make it happen.
 
 We've currently a collective of programmers, marketers, designers and artists. We seek students, city planners, architectects, organisations and individuals with similar interests and most imporantly, you! We're all about collaboration, and every little bit helps.
