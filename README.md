@@ -16,7 +16,8 @@ Get your butt over to our website and start exploring. Join the Open City Design
 
 - - - -
 
-## So, how do you make cities more liveable? We have some fun ideas,
+## So, how do you make cities more liveable?
+We have some fun ideas,
 
 * Green spaces and urban agriculture: Prioritize the creation and maintenance of green spaces, such as parks and gardens, that provide opportunities for outdoor recreation and relaxation. Promote urban agriculture initiatives that allow citizens to grow their own food and foster a sense of community.
 
