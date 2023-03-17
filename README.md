@@ -1,5 +1,7 @@
 # open-city-design
 
+Hey there! Have you ever walked around your city and thought, "This could be better!"? Well, guess what? You can be a part of making it happen! We believe in Tactical Urbanism. 
+
 ## What is Open City Design?
 Open City Design is all about empowering regular folks, governments, and designers to team up and create awesome cities that are both livable and sustainable. Our platform hooks you up with innovative tools, resources, and best practices to make your city planning and design game stronger than ever. So don't miss out on this opportunity to shape the future of our cities - eveyone can contribute!
 
@@ -24,6 +26,20 @@ Get your butt over to our website and start exploring. Join the Open City Design
 
 * Accessibility and inclusivity: Include systems for promoting accessibility and inclusivity for all citizens, including those with disabilities or from marginalized communities. Initiatives include accessible public transportation, affordable housing, and cultural events that celebrate diversity and promote inclusion.
 
+- - - - 
+
+## What exactly is Tactical Urbanism? Sounds complicated. 
+It's actually not! Imagine you're playing with Legos and you want to build a new toy, but you don't have enough Legos to make the whole thing. Instead of waiting until you have more Legos, you start building a small part of the toy that you can make with the Legos you have.
+
+Tactical urbanism is kind of like that. Sometimes, people want to make big changes to their cities, but they don't have all the money, materials, or permission they need to make those changes happen right away. So instead, they start by making small changes that they can do with the resources they have.
+
+Tactical urbanism is kind of like that. Sometimes, people want to make big changes to their cities, but they don't have all the money, materials, or permission they need to make those changes happen right away. So instead, they start by making small changes that they can do with the resources they have.
+
+For example, they might put up some plants or benches in a place where there weren't any before, or they might paint a crosswalk on a street to make it safer for people to cross. These small changes are like the small Lego toy you built. They might not be as big or fancy as the big toy you wanted to build, but they're still important and can make a big difference in the long run.
+
+By making these small changes, people can show others what the bigger changes could look like and get them excited about making those changes happen in the future. It's like when you show your friends the small Lego toy you built, and they get excited about helping you build the bigger toy when you have more Legos.
+
+So, tactical urbanism is all about making small changes to your city that can help make it a better place, even if you don't have all the resources you need to make the big changes right away.
 - - - -
 
 ## I'm interested, are there resources I can use to get started?
