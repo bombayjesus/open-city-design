@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City Builder</title>
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.15.1/dist/phaser.min.js"></script>
+</head>
+<body>
+
+    <script>
+        var config = {
+            type: Phaser.AUTO,
+            width: 800,
+            height: 600,
+            physics: {
+                default: 'arcade',
+                arcade: {
+                    gravity: { y: 200 }
+                }
+            },
+            scene: {
+                preload: preload,
+                create: create
+            }
+        };
+
+        var game = new Phaser.Game(config);
+
+        function preload() {
+            this.load.setBaseURL('http://labs.phaser.io');
+            this.load.image('sky', 'assets/skies/space3.png');
+            this.load.image('logo', 'assets/sprites/phaser3-logo.png');
+            this.load.image('red', 'assets/particles/red.png');
+        }
+
+        function create() {
+            this.add.image(400, 300, 'sky');
+
+            var particles = this.add.particles('red');
+
+            var emitter = particles.createEmitter({
+                speed: 100,
+                scale: { start: 1, end: 0 },
+                blendMode: 'ADD'
+            });
+
+            // add opening scene with buttons
+            var startButton = this.add.text(400, 300, 'Start Game', { fontSize: '32px', fill: '#fff' }).setOrigin(0.5);
+            var optionsButton = this.add.text(400, 350, 'Options', { fontSize: '32px', fill: '#fff' }).setOrigin(0.5);
+            var exitButton = this.add.text(400, 400, 'Exit Game', { fontSize: '32px', fill: '#fff' }).setOrigin(0.5);
+
+            startButton.setInteractive();
+            startButton.on('pointerdown', function () {
+                console.log('Start button clicked');
+                this.scene.start('gameScene');
+            }, this);
+
+            optionsButton.setInteractive();
+            optionsButton.on('pointerdown', function () {
+                console.log('Options button clicked');
+            });
+
+            exitButton.setInteractive();
+            exitButton.on('pointerdown', function () {
+                console.log('Exit button clicked');
+            });
+
+            // add game scene
+            var gameScene = this.scene.add('gameScene', {
+                preload: preloadGame,
+                create: createGame
+            });
+
+            function preloadGame() {
+                console.log('Game scene preload');
+            }
+
+            function createGame() {
+                console.log('Game scene create');
+            }
+        }
+    </script>
+
+</body>
+</html>
