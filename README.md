@@ -10,7 +10,7 @@ Open City Design is where it's at for sustainable urban design. We're all about 
 
 On our website, you'll find all kinds of resources and tools to help you design and implement sustainable projects in your city. We're talking case studies, design guides, and a community forum where you can connect with other pros and share your own ideas.
 
-We've got experts in city planning, architecture, urban design, and computer science on our team, so you know we mean business. But we're all about collaboration, so we welcome contributions from anyone who shares our mission.
+We've currently a collective of progmmers, marketers, designers and artists. We seek students, city planners, architectects, organisations and individuals with similar interests and most imporantly, you! We're all about collaboration, and every little bit helps.
 
 Our platform is open source, and we're always looking for new ideas and fresh perspectives. Whether you're a designer, planner, citizen, or student, we want to hear from you. Let's work together to create more sustainable, equitable, and livable cities for all!
 
@@ -27,6 +27,21 @@ So, what are you waiting for? Get your butt over to our website and start explor
 * Mental health and well-being: Prioritize mental health and well-being by promoting access to resources such as counseling services, mindfulness classes, and meditation spaces. Mental health awareness campaigns and initiatives that promote stress reduction and self-care.
 
 * Accessibility and inclusivity: Include systems for promoting accessibility and inclusivity for all citizens, including those with disabilities or from marginalized communities. Initiatives include accessible public transportation, affordable housing, and cultural events that celebrate diversity and promote inclusion.
+
+- - - -
+
+## I'm interested, are there resources I can use to get started?
+We're working on these! Here's a list to get started though,
+* http://cityform.mit.edu/ - The City Form Lab at MIT focuses on urban planning, mobility and urban design research. We develop new software tools for researching relationships between city form and human mobility patterns; use cutting-edge spatial analysis and statistics to investigate how urban form and land-use developments affect urban mobility and business location choices; and develop creative design and policy solutions for contemporary urban challenges. 
+* http://www.rapidplanningtoolkit.org/ - The Toolkit is a 4-step guide that helps you plan for rapid growth in your area.
+* https://www.urbangreencouncil.org/ - The Urban Green Council is a nonprofit organization that works to advance the sustainable development of New York City. We are a trusted source of information and expertise on the environmental, economic, and social benefits of sustainable development.
+* https://openstreetsproject.org/ - The Open Streets Project is a global movement to reclaim streets for people. We envision a world where streets are safe, accessible, and vibrant places for people to live, work, and play.
+* https://www.re-thinkingthefuture.com/designing-for-typologies/a6052-an-overview-of-tactical-urbanism/ - Tactical Urbanism is a design approach that uses low-cost, temporary interventions to test ideas and build support for permanent change. Tactical Urbanism is a design approach that uses low-cost, temporary interventions to test ideas and build support for permanent change.
+* https://opensource.com/life/16/5/6-open-source-architecture-projects - Open source architecture projects are a great way to learn about the design process and to get involved in the community. Here are six open source architecture projects to get you started.
+* https://www.urbansim.com/ - UrbanSim is a software platform for modeling the dynamics of urban development. It is designed to be used by researchers, planners, and developers to understand the impacts of policy and market forces on the development of cities and regions.
+* https://www.openbuildinginstitute.org/ - The Open Building Institute is a non-profit organization that promotes the use of open source building design and construction methods. We are a community of people who believe that open source building design and construction methods can help us build a better world.
+* https://www.openstreetmap.org/ - OpenStreetMap is a map of the world, created by people like you and free to use under an open license. OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
+* https://www.openplans.org/ - OpenPlans is a nonprofit organization that promotes the use of open source building design and construction methods. We are a community of people who believe that open source building design and construction methods can help us build a better world.
 
 - - - -
 
